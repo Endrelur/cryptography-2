@@ -129,3 +129,5 @@ def main():
     print("First 6 words:")
     print_words(expanded,0,6)
     
+if __name__ == "__main__":
+    main()
